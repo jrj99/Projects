@@ -1,0 +1,35 @@
+Jared Jones
+
+Assignment 1
+
+#include <QApplication>
+#include <QVBoxLayout>
+#include <QSlider>
+#include <QSpinBox>
+int main(int argc, char *argv[])
+    {
+        QApplication app(argc, argv);
+        QWidget *window = new QWidget;
+        window->setWindowTitle("Enter Your Age");
+        QSpinBox *spinBox = new QSpinBox;
+        QSlider *slider = new QSlider(Qt::Vertical);
+        spinBox->setRange(0, 130);
+        slider->setRange(0, 130);
+//next 4 lines connect values of spinbox and slider        
+        QObject::connect(spinBox, SIGNAL(valueChanged(int)),
+        slider, SLOT(setValue(int)));
+        QObject::connect(slider, SIGNAL(valueChanged(int)),
+        spinBox, SLOT(setValue(int)));
+        spinBox->setValue(35);
+//orients the window and widgets in a vertical format       
+        QVBoxLayout *layout = new QVBoxLayout;
+        layout->addWidget(slider);
+        layout->addWidget(spinBox);
+        window->setLayout(layout);
+//draws the window
+        window->show();
+        return app.exec();
+      }
+
+
+
