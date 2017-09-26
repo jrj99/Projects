@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/GLFW/glfw-3.2.1/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/GLFW/build/tests/CMakeFiles/generate.stamp is up-to-date.
+  empty.c
+  tinycthread.c
+  glad.c
+  Generating Code...
+  empty.vcxproj -> C:\GLFW\build\tests\Debug\empty.exe
+  empty.vcxproj -> C:/GLFW/build/tests/Debug/empty.pdb (Full PDB)

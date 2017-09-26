@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/GLFW/glfw-3.2.1/examples/CMakeLists.txt
+  CMake does not need to re-run because C:/GLFW/build/examples/CMakeFiles/generate.stamp is up-to-date.
+  heightmap.c
+  glad.c
+  Generating Code...
+  heightmap.vcxproj -> C:\GLFW\build\examples\Debug\heightmap.exe
+  heightmap.vcxproj -> C:/GLFW/build/examples/Debug/heightmap.pdb (Full PDB)
