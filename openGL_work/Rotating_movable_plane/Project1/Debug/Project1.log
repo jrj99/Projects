@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jared\documents\visual studio 2015\projects\rotating_movable_plane\project1\source.cpp(311): warning C4305: '-=': truncation from 'double' to 'float'
+  Project1.vcxproj -> C:\Users\jared\Documents\Visual Studio 2015\Projects\Rotating_movable_plane\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\jared\Documents\Visual Studio 2015\Projects\Rotating_movable_plane\Debug\Project1.pdb (Partial PDB)

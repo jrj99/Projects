@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(327): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(471): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(472): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(476): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(477): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(478): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\camera_control\project1\source.cpp(502): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\jared\Documents\Visual Studio 2015\Projects\Camera_control\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\jared\Documents\Visual Studio 2015\Projects\Camera_control\Debug\Project1.pdb (Partial PDB)
